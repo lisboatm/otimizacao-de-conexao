@@ -138,7 +138,7 @@ print(mst_cost)
 
 Certifique-se de ter **Python 3** instalado no seu sistema. Para executar o programa:
 
-1. Salve o código em um arquivo, por exemplo, `desafio_c.py`.
+1. Salve o código em um arquivo, por exemplo, `otimizacao_de_conexao.py`.
 2. Abra o terminal e navegue até o diretório onde o arquivo foi salvo.
 3. Execute o programa com:
    ```bash
